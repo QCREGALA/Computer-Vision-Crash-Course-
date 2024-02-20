@@ -1,2 +1,2 @@
-# Computer-Vision-Crash-Course-
-Computer Vision (Crash Course)
+This repository is for computer vison crashcourse awith the notebooks provided in the disucussion
+
